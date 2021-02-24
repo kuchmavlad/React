@@ -1,0 +1,23 @@
+.calendar-table__head-column {
+  border-left: 1px solid #d7d7d7;
+  border-top: 1px solid #d7d7d7;
+  padding: 10px 3px;
+}
+
+.calendar-table__head-column:last-child {
+  border-right: 1px solid #d7d7d7;
+}
+
+.calendar-table__head-week-day {
+  font-weight: 400;
+  font-size: 12px;
+  margin-bottom: 5px;
+}
+
+.calendar-table__month-day {
+  font-weight: 600;
+}
+
+.btn {
+  width: 260px;
+}

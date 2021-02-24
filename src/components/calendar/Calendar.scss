@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  line-height: 1.3em;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  padding: 0;
+}
+
+.calendar-table {
+  padding: 0 15px;
+  margin: 0 auto;
+  max-width: 1313px;
+}
+
+.weekday {
+  background: #f0f0f0;
+}

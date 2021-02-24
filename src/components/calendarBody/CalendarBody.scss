@@ -1,0 +1,7 @@
+.calendar-table__body-column:last-child .calendar-table__body-row {
+    border-right: 1px solid #d7d7d7;
+}
+
+.calendar-table__body-column.weekend .calendar-table__body-row {
+    background: #f0f0f0;
+}
